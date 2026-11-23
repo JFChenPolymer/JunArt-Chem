@@ -15,6 +15,13 @@ Get the files from the **Releases** page (right side of this page, or the *Relea
 | `JunArt-Chem-2.19.1-Web.html` | Any computer: download it and double-click to open it in a web browser. Nothing to install. |
 | `JunArt-Chem-2.19.1-Handbook.pdf` | The user handbook |
 
+## Step-by-step guides with troubleshooting
+
+How to install JunArt Chem and connect it to the Claude and ChatGPT desktop apps, with a troubleshooting table for every common message:
+
+- [**Windows guide (PDF)**](JunArt-Chem-Install-Guide-Windows.pdf)
+- [**Mac guide (PDF)**](JunArt-Chem-Install-Guide-Mac.pdf)
+
 ## Installing: the security warning is expected
 
 JunArt Chem is free. It is not signed with a paid Apple or Microsoft developer certificate, so Apple and Microsoft do not know who made it. The first time you install it, macOS or Windows warns you about an unverified developer. This is normal for free software from small developers. Allow it **only for files downloaded from this repository's Releases page**.
@@ -34,9 +41,19 @@ JunArt Chem is free. It is not signed with a paid Apple or Microsoft developer c
 3. If a blue window says **"Windows protected your PC"** (Microsoft Defender SmartScreen), click **More info**, then **Run anyway**.
 4. JunArt Chem opens. Later, start it from the Start menu or the desktop shortcut.
 
+Downloaded the Windows version before 24 November 2026? Download it again and install it over the old one: the earlier copy could not connect to the newest Claude app for Windows.
+
 If your institution manages your computer, its IT policy may block apps from unverified developers. In that case, ask your IT office, or use the web version, which needs no installation.
 
 You can check that a download is complete and unchanged by comparing its SHA-256 checksum with the one listed in the release notes.
+
+## Connecting the Claude or ChatGPT desktop app
+
+1. In JunArt Chem, open the **AI** tab and click **Connect** next to **Claude desktop** and/or **ChatGPT desktop**.
+2. Quit that app completely (Mac: Cmd+Q; Windows: right-click its icon next to the clock ▸ Quit) and open it again.
+3. Ask, for example: "Use JunArt Chem to draw caffeine and label it 1."
+
+This needs the Claude or ChatGPT **desktop** app; the web versions cannot control programs on your computer. If it does not connect, see the troubleshooting table in the guide for your computer.
 
 ## Privacy
 

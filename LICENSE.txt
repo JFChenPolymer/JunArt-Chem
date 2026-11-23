@@ -1,0 +1,60 @@
+JunArt Chem License (free to use)
+Version 1.0, November 2026
+
+Copyright (c) 2026 Junfeng Chen. All rights reserved, except as granted below.
+
+"JunArt Chem" means the JunArt Chem software in all its editions (the browser edition, the desktop apps for
+Windows and Mac, and the connector for AI apps), together with its handbook and documentation.
+
+1. Free use
+   You may install and use JunArt Chem free of charge, for any purpose (including research, teaching and
+   commercial work), on any number of computers.
+
+2. Sharing copies
+   You may give others unchanged copies of the complete downloads, free of charge, as long as this license and
+   the notices included with JunArt Chem stay with them.
+
+3. What is not allowed
+   You may not:
+   a. sell, rent or lease JunArt Chem, charge any fee for it, or include it in a product or service that is sold;
+   b. share modified versions of JunArt Chem or of any part of it, or software derived from it (changes for your
+      own private use are allowed);
+   c. remove or change the copyright, license or attribution notices; or
+   d. present JunArt Chem as your own work, or suggest that its authors endorse you, your work or your product.
+
+4. Your work is yours
+   Figures, graphs, files and everything else you make with JunArt Chem belong to you. You may use, publish and
+   sell them without restriction. No acknowledgement is required, although a mention is appreciated.
+
+5. Open-source components
+   JunArt Chem includes open-source software and fonts, listed in THIRD-PARTY-NOTICES.txt and under
+   Help > Open-Source Licenses. Each is used under its own license, and nothing in this license limits the rights
+   those licenses give you for those components.
+
+6. Services of other companies
+   The AI features connect to services of other companies (OpenAI's ChatGPT, Anthropic's Claude) with your own
+   account or key, and structure look-ups by name use PubChem. Those services' own terms and privacy policies
+   apply to that use. JunArt Chem is not affiliated with or endorsed by OpenAI or Anthropic; ChatGPT and
+   Claude are trademarks of their owners and are named only to describe how JunArt Chem works with them.
+
+7. No warranty
+   JunArt Chem is provided "as is", without warranty of any kind, express or implied, including any warranty of
+   merchantability, fitness for a particular purpose, accuracy or non-infringement. You are responsible for
+   checking drawings, structures, calculations, curve fits and exported files before you rely on them, including
+   in publications.
+
+8. Limitation of liability
+   To the fullest extent permitted by law, the authors and copyright holders are not liable for any claim,
+   damages or other liability (including lost data, lost profits or errors in work made with JunArt Chem) arising
+   from the use of, or the inability to use, JunArt Chem, even if they were told such damage was possible.
+
+9. Ending of this license
+   If you do not follow these terms, your permission to use and share JunArt Chem ends automatically.
+   Sections 4, 7 and 8 continue to apply.
+
+10. Other versions
+   A later version of JunArt Chem may come with different terms. The terms that came with a copy apply to that
+   copy.
+
+JunArt Chem is developed by the J. Chen Group (Polymer Chemistry), Department of Chemistry and Biochemistry,
+University of South Carolina.

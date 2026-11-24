@@ -50,10 +50,13 @@ You can check that a download is complete and unchanged by comparing its SHA-256
 ## Connecting the Claude or ChatGPT desktop app
 
 1. In JunArt Chem, open the **AI** tab and click **Connect** next to **Claude desktop** and/or **ChatGPT desktop**.
-2. Quit that app completely (Mac: Cmd+Q; Windows: right-click its icon next to the clock ▸ Quit) and open it again.
-3. Ask, for example: "Use JunArt Chem to draw caffeine and label it 1."
+2. **Quit that app completely**, then open it again. It reads the new setting only when it starts.
+   - **Windows:** closing the window (×) does **not** quit Claude or ChatGPT; they keep running as an icon at the **bottom right of the taskbar**. Click the **^** arrow next to the clock, right-click the app's icon and choose **Quit**, then open the app again from the Start menu.
+   - **Mac:** press **Cmd+Q** with the app in front (the red close button only closes the window).
+3. Check: in Claude's message box, click **+ ▸ Connectors**; JunArt Chem (junart-chem) is listed and switched on. In ChatGPT: **Settings ▸ MCP servers**.
+4. Ask, for example: "Use JunArt Chem to draw caffeine and label it 1."
 
-This needs the Claude or ChatGPT **desktop** app; the web versions cannot control programs on your computer. If it does not connect, see the troubleshooting table in the guide for your computer.
+If Claude says it has no connector for JunArt Chem, the app was almost always closed but not quit: quit it as in step 2 and open it again. This needs the Claude or ChatGPT **desktop** app; the web versions cannot control programs on your computer. More help: the troubleshooting table in the guide for your computer.
 
 ## Privacy
 

@@ -27,7 +27,7 @@ How to install JunArt Chem and connect it to the Claude and ChatGPT desktop apps
 - [**Windows guide (PDF)**](JunArt-Chem-Install-Guide-Windows.pdf)
 - [**Mac guide (PDF)**](JunArt-Chem-Install-Guide-Mac.pdf)
 
-The guides show the 2.19.1 file names; the steps are the same for every version.
+The guides use the 2.21 file names; the steps are the same for later versions.
 
 ## Installing: the security warning is expected
 
